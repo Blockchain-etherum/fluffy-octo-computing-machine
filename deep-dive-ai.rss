@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://deepdive.opensource.org/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+		<channel>
+		<title>Deep Dive: AI</title>
+		<atom:link href="https://deepdive.opensource.org/feed/podcast/deep-dive-ai/" rel="self" type="application/rss+xml"/>
+		<link>https://deepdive.opensource.org/series/deep-dive-ai/</link>
+		<description>Deep Dive:AI is an online event from the Open Source Initiative. We’ll be exploring how Artificial Intelligence impacts Open Source software, from developers to businesses to the rest of us.</description>
+		<lastBuildDate>Thu, 23 Feb 2023 23:46:08 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright>Copyright © 2022 Open Source Initiative, licensed under a Creative Commons Attribution 4.0 International License.</copyright>
+		<itunes:subtitle>Deep Dive:AI is an online event from the Open Source Initiative. We’ll be exploring how Artificial Intelligence impacts Open Source software, from developers to businesses to the rest of us.</itunes:subtitle>
+		<itunes:author>Deep Dive: AI</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:summary>Deep Dive:AI is an online event from the Open Source Initiative. We’ll be exploring how Artificial Intelligence impacts Open Source software, from developers to businesses to the rest of us.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>Deep Dive: AI</itunes:name>
+			<itunes:email>stefano@maffulli.net</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:image href="https://deepdive.opensource.org/wp-content/uploads/2022/07/deepdiveai-logo.png"></itunes:image>
+			<image>
+				<url>https://deepdive.opensource.org/wp-content/uploads/2022/07/deepdiveai-logo.png</url>
+				<title>Deep Dive: AI</title>
+				<link>https://deepdive.opensource.org/</link>
+			</image>
+		<itunes:category text="Technology">
+		</itunes:category>
+		<itunes:category text="Business">
+							</itunes:category>
+		<podcast:locked owner="stefano@maffulli.net">yes</podcast:locked>
+		<podcast:guid>d5f79432-6fdf-5449-b5b5-89de4cd452dd</podcast:guid>
+		
+		<!-- podcast_generator="SSP by Castos/2.22.0" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
+		
+<site xmlns="com-wordpress:feed-additions:1">205412784</site>
+<item>
+	<title>How to secure AI systems</title>
+	<link>https://deepdive.opensource.org/podcast/how-to-secure-ai-systems/</link>
+	<pubDate>Thu, 09 Feb 2023 14:00:05 +0000</pubDate>
+	<dc:creator><![CDATA[Deep Dive: AI]]></dc:creator>
+	<guid isPermaLink="false">https://deepdive.opensource.org/?post_type=podcast&#038;p=1592</guid>
+	<description><![CDATA[With so many artificial systems claiming "intelligence" available to the public, making sure they do what they're designed to is of the utmost importance. Dr. Bruce Draper, Program Manager of the Information Innovation Office at DARPA joins us on this bonus episode of Deep Dive: AI to unpack his work in the field and his current role. We have a fascinating chat with Draper about the risks and opportunities involved in this exciting field, and why growing bigger and more involved Open Source communities is better for everyone. Draper introduces us to the Guaranteeing AI Robustness Against Deception (GARD) Project, its main short-term goals and how these aim to mitigate exposure to danger while we explore the possibilities that machine learning offer. We also spend time discussing the agency's Open Source philosophy and foundation, the AI boom in recent years, why policy making is so critical, the split between academic and corporate contributions, and much more. For Draper, community involvement is critical to spot potential issues and threats. Tune in to hear it all from this exceptional guest! Read the <a href="https://deepdive.opensource.org/episode-6-transcript/">full transcript</a>.
+<h2>Key points from this episode:</h2>
+<ul>
+ 	<li aria-level="1">The objectives of the GARD project and DARPA's broader mission.</li>
+ 	<li aria-level="1">How the Open Source model plays into the research strategy at DARPA.</li>
+ 	<li aria-level="1">Differences between machine learning and more traditional IT systems.</li>
+ 	<li aria-level="1">Draper talks about his ideas for ideal communities and the role of stakeholders.</li>
+ 	<li aria-level="1">Key factors to the 'extended summer of AI' we have been experiencing.</li>
+ 	<li aria-level="1">Getting involved in the GARD Project and how the community makes the systems more secure.</li>
+ 	<li aria-level="1">The main impetus for the AI community to address these security concerns.</li>
+ 	<li aria-level="1">Draper explains the complications of safety-critical AI systems.</li>
+ 	<li aria-level="1">Deployment opportunities and concurrent development for optimum safety.</li>
+ 	<li aria-level="1">Thoughts on the scope and role of policy makers in the AI security field.</li>
+ 	<li aria-level="1">The need for a deeper theoretical understanding of possible and present threats.</li>
+ 	<li aria-level="1">Draper talks about the broader goal of a self-sustaining Open Source community.</li>
+ 	<li aria-level="1">Plotting the future role and involvement of DARPA in the community.</li>
+ 	<li aria-level="1">The partners that DARPA works with: academic and corporate.</li>
+ 	<li aria-level="1">The story of how Draper got involved with the GARD Project and adversarial AI.</li>
+ 	<li aria-level="1">Looking at the near future for Draper and DARPA.</li>
+ 	<li aria-level="1">Reflections on the last few years in AI and how much of this could have been predicted.</li>
+</ul>
+<h2>Links mentioned in this episode:</h2>
+<ul>
+ 	<li><a href="https://www.darpa.mil/staff/dr-bruce-draper">Dr. Bruce Draper</a></li>
+ 	<li><a href="https://www.darpa.mil/">DARPA</a></li>
+ 	<li><a href="https://www.modernatx.com/">Moderna</a></li>
+ 	<li><a href="https://openai.com/blog/chatgpt/">ChatGPT</a></li>
+ 	<li><a href="https://openai.com/dall-e-2/">DALL-E</a></li>
+ 	<li><a href="https://adversarial-robustness-toolbox.readthedocs.io/en/latest/">Adversarial Robustness Toolbox</a></li>
+ 	<li><a href="https://www.gardproject.org/">GARD Project</a></li>
+ 	<li><a href="https://www.cmu.edu/">Carnegie Mellon University</a></li>
+ 	<li><a href="https://themenschfoundation.org/theory-of-embedded-intelligence/">Embedded Intelligence</a></li>
+ 	<li><a href="https://www.ibm.com/">IBM</a></li>
+ 	<li><a href="https://newsroom.intel.com/news-releases/intel-forms-new-subsidiary-intel-federal-llc/">Intel Federal LLC</a></li>
+ 	<li><a href="https://www.jhu.edu/">Johns Hopkins University</a></li>
+ 	<li><a href="https://www.mit.edu/">MIT</a></li>
+ 	<li><a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago</a></li>
+ 	<li><a href="https://twosixtech.com/">Two Six Technologies</a></li>
+ 	<li><a href="https://www.ucf.edu/">University of Central Florida</a></li>
+ 	<li><a href="https://www.umd.edu/">University of Maryland</a></li>
+ 	<li><a href="https://www.wisc.edu/">University of Wisconsin</a></li>
+ 	<li><a href="https://www.isi.edu/">USC Information Sciences Institute</a></li>
+ 	<li><a href="https://research.google/">Google Research</a></li>
+ 	<li><a href="https://www.mitre.org/">MITRE</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>.
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></description>
+	<itunes:subtitle><![CDATA[With so many artificial systems claiming intelligence available to the public, making sure they do what theyre designed to is of the utmost importance. Dr. Bruce Draper, Program Manager of the Information Innovation Office at DARPA joins us on this bonus]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[How to secure AI systems]]></itunes:title>
+	<itunes:episode>6</itunes:episode>
+	<itunes:season>1</itunes:season>
+	<content:encoded><![CDATA[With so many artificial systems claiming "intelligence" available to the public, making sure they do what they're designed to is of the utmost importance. Dr. Bruce Draper, Program Manager of the Information Innovation Office at DARPA joins us on this bonus episode of Deep Dive: AI to unpack his work in the field and his current role. We have a fascinating chat with Draper about the risks and opportunities involved in this exciting field, and why growing bigger and more involved Open Source communities is better for everyone. Draper introduces us to the Guaranteeing AI Robustness Against Deception (GARD) Project, its main short-term goals and how these aim to mitigate exposure to danger while we explore the possibilities that machine learning offer. We also spend time discussing the agency's Open Source philosophy and foundation, the AI boom in recent years, why policy making is so critical, the split between academic and corporate contributions, and much more. For Draper, community involvement is critical to spot potential issues and threats. Tune in to hear it all from this exceptional guest! Read the <a href="https://deepdive.opensource.org/episode-6-transcript/">full transcript</a>.
+<h2>Key points from this episode:</h2>
+<ul>
+ 	<li aria-level="1">The objectives of the GARD project and DARPA's broader mission.</li>
+ 	<li aria-level="1">How the Open Source model plays into the research strategy at DARPA.</li>
+ 	<li aria-level="1">Differences between machine learning and more traditional IT systems.</li>
+ 	<li aria-level="1">Draper talks about his ideas for ideal communities and the role of stakeholders.</li>
+ 	<li aria-level="1">Key factors to the 'extended summer of AI' we have been experiencing.</li>
+ 	<li aria-level="1">Getting involved in the GARD Project and how the community makes the systems more secure.</li>
+ 	<li aria-level="1">The main impetus for the AI community to address these security concerns.</li>
+ 	<li aria-level="1">Draper explains the complications of safety-critical AI systems.</li>
+ 	<li aria-level="1">Deployment opportunities and concurrent development for optimum safety.</li>
+ 	<li aria-level="1">Thoughts on the scope and role of policy makers in the AI security field.</li>
+ 	<li aria-level="1">The need for a deeper theoretical understanding of possible and present threats.</li>
+ 	<li aria-level="1">Draper talks about the broader goal of a self-sustaining Open Source community.</li>
+ 	<li aria-level="1">Plotting the future role and involvement of DARPA in the community.</li>
+ 	<li aria-level="1">The partners that DARPA works with: academic and corporate.</li>
+ 	<li aria-level="1">The story of how Draper got involved with the GARD Project and adversarial AI.</li>
+ 	<li aria-level="1">Looking at the near future for Draper and DARPA.</li>
+ 	<li aria-level="1">Reflections on the last few years in AI and how much of this could have been predicted.</li>
+</ul>
+<h2>Links mentioned in this episode:</h2>
+<ul>
+ 	<li><a href="https://www.darpa.mil/staff/dr-bruce-draper">Dr. Bruce Draper</a></li>
+ 	<li><a href="https://www.darpa.mil/">DARPA</a></li>
+ 	<li><a href="https://www.modernatx.com/">Moderna</a></li>
+ 	<li><a href="https://openai.com/blog/chatgpt/">ChatGPT</a></li>
+ 	<li><a href="https://openai.com/dall-e-2/">DALL-E</a></li>
+ 	<li><a href="https://adversarial-robustness-toolbox.readthedocs.io/en/latest/">Adversarial Robustness Toolbox</a></li>
+ 	<li><a href="https://www.gardproject.org/">GARD Project</a></li>
+ 	<li><a href="https://www.cmu.edu/">Carnegie Mellon University</a></li>
+ 	<li><a href="https://themenschfoundation.org/theory-of-embedded-intelligence/">Embedded Intelligence</a></li>
+ 	<li><a href="https://www.ibm.com/">IBM</a></li>
+ 	<li><a href="https://newsroom.intel.com/news-releases/intel-forms-new-subsidiary-intel-federal-llc/">Intel Federal LLC</a></li>
+ 	<li><a href="https://www.jhu.edu/">Johns Hopkins University</a></li>
+ 	<li><a href="https://www.mit.edu/">MIT</a></li>
+ 	<li><a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago</a></li>
+ 	<li><a href="https://twosixtech.com/">Two Six Technologies</a></li>
+ 	<li><a href="https://www.ucf.edu/">University of Central Florida</a></li>
+ 	<li><a href="https://www.umd.edu/">University of Maryland</a></li>
+ 	<li><a href="https://www.wisc.edu/">University of Wisconsin</a></li>
+ 	<li><a href="https://www.isi.edu/">USC Information Sciences Institute</a></li>
+ 	<li><a href="https://research.google/">Google Research</a></li>
+ 	<li><a href="https://www.mitre.org/">MITRE</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>.
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></content:encoded>
+	<enclosure url="https://deepdive.opensource.org/podcast-download/1592/how-to-secure-ai-systems.mp3" length="38854070" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[With so many artificial systems claiming "intelligence" available to the public, making sure they do what they're designed to is of the utmost importance. Dr. Bruce Draper, Program Manager of the Information Innovation Office at DARPA joins us on this bonus episode of Deep Dive: AI to unpack his work in the field and his current role. We have a fascinating chat with Draper about the risks and opportunities involved in this exciting field, and why growing bigger and more involved Open Source communities is better for everyone. Draper introduces us to the Guaranteeing AI Robustness Against Deception (GARD) Project, its main short-term goals and how these aim to mitigate exposure to danger while we explore the possibilities that machine learning offer. We also spend time discussing the agency's Open Source philosophy and foundation, the AI boom in recent years, why policy making is so critical, the split between academic and corporate contributions, and much more. For Draper, community involvement is critical to spot potential issues and threats. Tune in to hear it all from this exceptional guest! Read the full transcript.
+Key points from this episode:
+
+ 	The objectives of the GARD project and DARPA's broader mission.
+ 	How the Open Source model plays into the research strategy at DARPA.
+ 	Differences between machine learning and more traditional IT systems.
+ 	Draper talks about his ideas for ideal communities and the role of stakeholders.
+ 	Key factors to the 'extended summer of AI' we have been experiencing.
+ 	Getting involved in the GARD Project and how the community makes the systems more secure.
+ 	The main impetus for the AI community to address these security concerns.
+ 	Draper explains the complications of safety-critical AI systems.
+ 	Deployment opportunities and concurrent development for optimum safety.
+ 	Thoughts on the scope and role of policy makers in the AI security field.
+ 	The need for a deeper theoretical understanding of possible and present threats.
+ 	Draper talks about the broader goal of a self-sustaining Open Source community.
+ 	Plotting the future role and involvement of DARPA in the community.
+ 	The partners that DARPA works with: academic and corporate.
+ 	The story of how Draper got involved with the GARD Project and adversarial AI.
+ 	Looking at the near future for Draper and DARPA.
+ 	Reflections on the last few years in AI and how much of this could have been predicted.
+
+Links mentioned in this episode:
+
+ 	Dr. Bruce Draper
+ 	DARPA
+ 	Moderna
+ 	ChatGPT
+ 	DALL-E
+ 	Adversarial Robustness Toolbox
+ 	GARD Project
+ 	Carnegie Mellon University
+ 	Embedded Intelligence
+ 	IBM
+ 	Intel Federal LLC
+ 	Johns Hopkins University
+ 	MIT
+ 	Toyota Technological Institute at Chicago
+ 	Two Six Technologies
+ 	University of Central Florida
+ 	University of Maryland
+ 	University of Wisconsin
+ 	USC Information Sciences Institute
+ 	Google Research
+ 	MITRE
+
+Credits
+Special thanks to volunteer producer, Nicole Martinelli. Music by Jason Shaw, Audionautix.
+
+This podcast is sponsored by GitHub, DataStax and Google.
+
+No sponsor had any right or opportunity to approve or disapprove the content of this podcast.]]></itunes:summary>
+	<itunes:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2023/02/DDAI-Episode-Cover-Art-ep6.png?fit=1200%2C628&#038;ssl=1"></itunes:image>
+	<image>
+		<url>https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2023/02/DDAI-Episode-Cover-Art-ep6.png?fit=1200%2C628&#038;ssl=1</url>
+		<title>How to secure AI systems</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Deep Dive: AI]]></itunes:author>	<googleplay:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2023/02/DDAI-Episode-Cover-Art-ep6.png?fit=1200%2C628&#038;ssl=1"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Why Debian won&#8217;t distribute AI models any time soon</title>
+	<link>https://deepdive.opensource.org/podcast/why-debian-wont-distribute-ai-models-any-time-soon/</link>
+	<pubDate>Tue, 13 Sep 2022 13:00:23 +0000</pubDate>
+	<dc:creator><![CDATA[Deep Dive: AI]]></dc:creator>
+	<guid isPermaLink="false">https://deepdive.opensource.org/?post_type=podcast&#038;p=1332</guid>
+	<description><![CDATA[Welcome to a brand new episode of Deep Dive: AI! For today’s conversation, we are joined by Mo Zhou, a PhD student at Johns Hopkins University and an official Debian developer since 2018. Tune in as Mo speaks to the evolving role of artificial intelligence driven by big data and hardware capacity and shares some key insights into what sets AlphaGo apart from previous algorithms, making applications integral, and the necessity of releasing training data along with any free software. You’ll also learn about validation data and the difference powerful hardware makes, as well as why Debian is so strict about their practice of offering free software. Finally, Mo shares his predictions for the free software community (and what he would like to see happen in an ideal world) before sharing his own plans for the future, which include a strong element of research. 
+
+If you’re looking to learn about the uphill climb for open source artificial intelligence, plus so much more, you won’t want to miss this episode! <a href="https://deepdive.opensource.org/episode-5-transcript/">Full transcript</a>. 
+<h2>Key points from this episode:</h2>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1">Background on today’s guest, Mo Zhou: PhD student and Debian developer.</li>
+ 	<li style="font-weight: 400;" aria-level="1">His recent Machine Learning Policy proposal at Debian.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Defining artificial intelligence and its evolution, driven by big data and hardware capacity.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why the recent advancements in deep learning would be impossible without hardware. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Where AlphaGo differs from past algorithms.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The role of data, training code, and inference code in making an application integral.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why you have to release training data with any free software.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The financial and time expense of classifying images.</li>
+ 	<li style="font-weight: 400;" aria-level="1">What you need access to in order to modify an existing model.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The validation data set collected by the research community.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Predicting the process of retraining.</li>
+ 	<li style="font-weight: 400;" aria-level="1">What you can gain from powerful hardware.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why Debian is so strict in the practice of free software. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Problems that occur when big companies charge for their ecosystems.</li>
+ 	<li style="font-weight: 400;" aria-level="1">What Zhou is expecting from the future of the free software community.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Which licensing schemes are most popular and why.</li>
+ 	<li style="font-weight: 400;" aria-level="1">An ideal future for Open Source AI.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Zhou's plans for the future and why they include research.</li>
+</ul>
+<h2>Links mentioned in today’s episode:</h2>
+<ul>
+ 	<li><a href="https://www.linkedin.com/in/mo-zhou-9bb99021b/">Mo Zhou on LinkedIn</a></li>
+ 	<li><a href="https://github.com/cdluminate">Mo Zhou on GitHub</a></li>
+ 	<li><a href="https://people.debian.org/~lumin/">Mo Zhou</a></li>
+ 	<li><a href="https://www.jhu.edu/">Johns Hopkins University</a></li>
+ 	<li><a href="https://www.debian.org/">Debian</a></li>
+ 	<li><a href="https://salsa.debian.org/deeplearning-team/">Debian Deep Learning Team</a></li>
+ 	<li><a href="https://www.deepmind.com/">DeepMind</a></li>
+ 	<li><a href="https://httpd.apache.org/">Apache</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>.
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></description>
+	<itunes:subtitle><![CDATA[Welcome to a brand new episode of Deep Dive: AI! For today’s conversation, we are joined by Mo Zhou, a PhD student at Johns Hopkins University and an official Debian developer since 2018. Tune in as Mo speaks to the evolving role of artificial intelligen]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Why Debian won't distribute AI models any time soon]]></itunes:title>
+	<itunes:episode>5</itunes:episode>
+	<itunes:season>1</itunes:season>
+	<content:encoded><![CDATA[Welcome to a brand new episode of Deep Dive: AI! For today’s conversation, we are joined by Mo Zhou, a PhD student at Johns Hopkins University and an official Debian developer since 2018. Tune in as Mo speaks to the evolving role of artificial intelligence driven by big data and hardware capacity and shares some key insights into what sets AlphaGo apart from previous algorithms, making applications integral, and the necessity of releasing training data along with any free software. You’ll also learn about validation data and the difference powerful hardware makes, as well as why Debian is so strict about their practice of offering free software. Finally, Mo shares his predictions for the free software community (and what he would like to see happen in an ideal world) before sharing his own plans for the future, which include a strong element of research. 
+
+If you’re looking to learn about the uphill climb for open source artificial intelligence, plus so much more, you won’t want to miss this episode! <a href="https://deepdive.opensource.org/episode-5-transcript/">Full transcript</a>. 
+<h2>Key points from this episode:</h2>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1">Background on today’s guest, Mo Zhou: PhD student and Debian developer.</li>
+ 	<li style="font-weight: 400;" aria-level="1">His recent Machine Learning Policy proposal at Debian.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Defining artificial intelligence and its evolution, driven by big data and hardware capacity.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why the recent advancements in deep learning would be impossible without hardware. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Where AlphaGo differs from past algorithms.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The role of data, training code, and inference code in making an application integral.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why you have to release training data with any free software.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The financial and time expense of classifying images.</li>
+ 	<li style="font-weight: 400;" aria-level="1">What you need access to in order to modify an existing model.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The validation data set collected by the research community.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Predicting the process of retraining.</li>
+ 	<li style="font-weight: 400;" aria-level="1">What you can gain from powerful hardware.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why Debian is so strict in the practice of free software. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Problems that occur when big companies charge for their ecosystems.</li>
+ 	<li style="font-weight: 400;" aria-level="1">What Zhou is expecting from the future of the free software community.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Which licensing schemes are most popular and why.</li>
+ 	<li style="font-weight: 400;" aria-level="1">An ideal future for Open Source AI.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Zhou's plans for the future and why they include research.</li>
+</ul>
+<h2>Links mentioned in today’s episode:</h2>
+<ul>
+ 	<li><a href="https://www.linkedin.com/in/mo-zhou-9bb99021b/">Mo Zhou on LinkedIn</a></li>
+ 	<li><a href="https://github.com/cdluminate">Mo Zhou on GitHub</a></li>
+ 	<li><a href="https://people.debian.org/~lumin/">Mo Zhou</a></li>
+ 	<li><a href="https://www.jhu.edu/">Johns Hopkins University</a></li>
+ 	<li><a href="https://www.debian.org/">Debian</a></li>
+ 	<li><a href="https://salsa.debian.org/deeplearning-team/">Debian Deep Learning Team</a></li>
+ 	<li><a href="https://www.deepmind.com/">DeepMind</a></li>
+ 	<li><a href="https://httpd.apache.org/">Apache</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>.
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></content:encoded>
+	<enclosure url="https://deepdive.opensource.org/podcast-download/1332/why-debian-wont-distribute-ai-models-any-time-soon.mp3" length="46356814" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Welcome to a brand new episode of Deep Dive: AI! For today’s conversation, we are joined by Mo Zhou, a PhD student at Johns Hopkins University and an official Debian developer since 2018. Tune in as Mo speaks to the evolving role of artificial intelligence driven by big data and hardware capacity and shares some key insights into what sets AlphaGo apart from previous algorithms, making applications integral, and the necessity of releasing training data along with any free software. You’ll also learn about validation data and the difference powerful hardware makes, as well as why Debian is so strict about their practice of offering free software. Finally, Mo shares his predictions for the free software community (and what he would like to see happen in an ideal world) before sharing his own plans for the future, which include a strong element of research. 
+
+If you’re looking to learn about the uphill climb for open source artificial intelligence, plus so much more, you won’t want to miss this episode! Full transcript. 
+Key points from this episode:
+
+ 	Background on today’s guest, Mo Zhou: PhD student and Debian developer.
+ 	His recent Machine Learning Policy proposal at Debian.
+ 	Defining artificial intelligence and its evolution, driven by big data and hardware capacity.
+ 	Why the recent advancements in deep learning would be impossible without hardware. 
+ 	Where AlphaGo differs from past algorithms.
+ 	The role of data, training code, and inference code in making an application integral.
+ 	Why you have to release training data with any free software.
+ 	The financial and time expense of classifying images.
+ 	What you need access to in order to modify an existing model.
+ 	The validation data set collected by the research community.
+ 	Predicting the process of retraining.
+ 	What you can gain from powerful hardware.
+ 	Why Debian is so strict in the practice of free software. 
+ 	Problems that occur when big companies charge for their ecosystems.
+ 	What Zhou is expecting from the future of the free software community.
+ 	Which licensing schemes are most popular and why.
+ 	An ideal future for Open Source AI.
+ 	Zhou's plans for the future and why they include research.
+
+Links mentioned in today’s episode:
+
+ 	Mo Zhou on LinkedIn
+ 	Mo Zhou on GitHub
+ 	Mo Zhou
+ 	Johns Hopkins University
+ 	Debian
+ 	Debian Deep Learning Team
+ 	DeepMind
+ 	Apache
+
+Credits
+Special thanks to volunteer producer, Nicole Martinelli. Music by Jason Shaw, Audionautix.
+
+This podcast is sponsored by GitHub, DataStax and Google.
+
+No sponsor had any right or opportunity to approve or disapprove the content of this podcast.]]></itunes:summary>
+	<itunes:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/09/DDAI-Episode-Cover-Art-1.png?fit=3000%2C3000&#038;ssl=1"></itunes:image>
+	<image>
+		<url>https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/09/DDAI-Episode-Cover-Art-1.png?fit=3000%2C3000&#038;ssl=1</url>
+		<title>Why Debian won&#8217;t distribute AI models any time soon</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Deep Dive: AI]]></itunes:author>	<googleplay:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/09/DDAI-Episode-Cover-Art-1.png?fit=3000%2C3000&#038;ssl=1"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Building creative restrictions to curb AI abuse</title>
+	<link>https://deepdive.opensource.org/podcast/building-creative-restrictions-to-curb-ai-abuse/</link>
+	<pubDate>Tue, 06 Sep 2022 13:18:37 +0000</pubDate>
+	<dc:creator><![CDATA[Deep Dive: AI]]></dc:creator>
+	<guid isPermaLink="false">https://deepdive.opensource.org/?post_type=podcast&#038;p=1319</guid>
+	<description><![CDATA[Along with all the positive, revolutionary aspects of AI comes a more sinister side. Joining us today to discuss ethics in AI from the developer's point of view is David Gray Widder. David is currently doing his Ph.D. at the School of Computer Science at Carnegie Mellon University and is investigating AI from an ethical perspective, honing in specifically on the ethics-related challenges faced by AI software engineers. His research has been conducted at Intel Labs, Microsoft, and NASA's Jet Propulsion Lab. In this episode, we discuss the harmful uses of deep fakes and the ethical ramifications thereof in proprietary versus open source contexts. Widder breaks down the notions of technological inevitability and technological neutrality, respectively, and explains the importance of challenging these ideas. Widder has identified a continuum between implementation-based harms and use-based harms and fills us in on how each is affected in the open source development space.
+
+Tune in to find out more about the importance of curbing AI abuse and the creativity required to do so, as well as the strengths and weaknesses of open source in terms of AI ethics. <a href="https://deepdive.opensource.org/episode-4-transcript/">Full transcript</a>.
+<h2>Key points from this episode:</h2>
+<ul>
+ 	<li aria-level="1">Introducing David Gray Widder, a Ph.D. student researching AI ethics.</li>
+ 	<li aria-level="1">Why he chose to focus his research on ethics in AI, and how he drives his research.</li>
+ 	<li aria-level="1">Widder explains deep fakes and gives examples of their uses.</li>
+ 	<li aria-level="1">Sinister uses of deep fakes and the danger thereof.</li>
+ 	<li aria-level="1">The ethical ramifications of deep fake tech in proprietary versus open source contexts.</li>
+ 	<li aria-level="1">The kinds of harms that can be prevented in open source versus proprietary contexts.</li>
+ 	<li aria-level="1">The licensing issues that result in developers relinquishing control (and responsibility) over the uses of their tech.</li>
+ 	<li aria-level="1">Why Widder is critical of the notions of both technological inevitability and neutrality.</li>
+ 	<li aria-level="1">Why it’s important to challenge the idea of technological neutrality.</li>
+ 	<li aria-level="1">The potential to build restrictions, even within the dictates of open source.</li>
+ 	<li aria-level="1">The continuum between implementation-based harms and use-based harms.</li>
+ 	<li aria-level="1">How open source allows for increased scrutiny of implementation harms, but decreased accountability for use-based harms.</li>
+ 	<li aria-level="1">The insight Widder gleaned from observing NASA’s use of AI, pertaining to the deep fake case.</li>
+ 	<li aria-level="1">Widder voices his legal concerns around Copilot.</li>
+ 	<li aria-level="1">The difference between laws and norms.</li>
+ 	<li aria-level="1">How we’ve been unsuspectingly providing data by uploading photos online.</li>
+ 	<li aria-level="1">Why it’s important to include open source and public sector organizations in the ethical AI conversation.</li>
+ 	<li aria-level="1">Open source strengths and weaknesses in terms of the ethical use of AI.</li>
+</ul>
+<h2>Links mentioned in today’s episode:</h2>
+<ul>
+ 	<li><a href="https://davidwidder.me/">David Gray Widder</a></li>
+ 	<li><a href="https://twitter.com/davidthewid">David Gray Widder on Twitter</a></li>
+ 	<li><a href="https://dl.acm.org/doi/abs/10.1145/3531146.3533779">Limits and Possibilities of “Ethical AI” in Open Source: A Study of Deep Fakes</a></li>
+ 	<li><a href="https://en.wikipedia.org/wiki/Deepfake">What is Deepfake</a></li>
+ 	<li><a href="https://github.com/features/copilot">Copilot</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>.
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></description>
+	<itunes:subtitle><![CDATA[Along with all the positive, revolutionary aspects of AI comes a more sinister side. Joining us today to discuss ethics in AI from the developers point of view is David Gray Widder. David is currently doing his Ph.D. at the School of Computer Science at ]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Creative Restrictions to Curb AI Abuse]]></itunes:title>
+	<itunes:episode>4</itunes:episode>
+	<itunes:season>1</itunes:season>
+	<content:encoded><![CDATA[Along with all the positive, revolutionary aspects of AI comes a more sinister side. Joining us today to discuss ethics in AI from the developer's point of view is David Gray Widder. David is currently doing his Ph.D. at the School of Computer Science at Carnegie Mellon University and is investigating AI from an ethical perspective, honing in specifically on the ethics-related challenges faced by AI software engineers. His research has been conducted at Intel Labs, Microsoft, and NASA's Jet Propulsion Lab. In this episode, we discuss the harmful uses of deep fakes and the ethical ramifications thereof in proprietary versus open source contexts. Widder breaks down the notions of technological inevitability and technological neutrality, respectively, and explains the importance of challenging these ideas. Widder has identified a continuum between implementation-based harms and use-based harms and fills us in on how each is affected in the open source development space.
+
+Tune in to find out more about the importance of curbing AI abuse and the creativity required to do so, as well as the strengths and weaknesses of open source in terms of AI ethics. <a href="https://deepdive.opensource.org/episode-4-transcript/">Full transcript</a>.
+<h2>Key points from this episode:</h2>
+<ul>
+ 	<li aria-level="1">Introducing David Gray Widder, a Ph.D. student researching AI ethics.</li>
+ 	<li aria-level="1">Why he chose to focus his research on ethics in AI, and how he drives his research.</li>
+ 	<li aria-level="1">Widder explains deep fakes and gives examples of their uses.</li>
+ 	<li aria-level="1">Sinister uses of deep fakes and the danger thereof.</li>
+ 	<li aria-level="1">The ethical ramifications of deep fake tech in proprietary versus open source contexts.</li>
+ 	<li aria-level="1">The kinds of harms that can be prevented in open source versus proprietary contexts.</li>
+ 	<li aria-level="1">The licensing issues that result in developers relinquishing control (and responsibility) over the uses of their tech.</li>
+ 	<li aria-level="1">Why Widder is critical of the notions of both technological inevitability and neutrality.</li>
+ 	<li aria-level="1">Why it’s important to challenge the idea of technological neutrality.</li>
+ 	<li aria-level="1">The potential to build restrictions, even within the dictates of open source.</li>
+ 	<li aria-level="1">The continuum between implementation-based harms and use-based harms.</li>
+ 	<li aria-level="1">How open source allows for increased scrutiny of implementation harms, but decreased accountability for use-based harms.</li>
+ 	<li aria-level="1">The insight Widder gleaned from observing NASA’s use of AI, pertaining to the deep fake case.</li>
+ 	<li aria-level="1">Widder voices his legal concerns around Copilot.</li>
+ 	<li aria-level="1">The difference between laws and norms.</li>
+ 	<li aria-level="1">How we’ve been unsuspectingly providing data by uploading photos online.</li>
+ 	<li aria-level="1">Why it’s important to include open source and public sector organizations in the ethical AI conversation.</li>
+ 	<li aria-level="1">Open source strengths and weaknesses in terms of the ethical use of AI.</li>
+</ul>
+<h2>Links mentioned in today’s episode:</h2>
+<ul>
+ 	<li><a href="https://davidwidder.me/">David Gray Widder</a></li>
+ 	<li><a href="https://twitter.com/davidthewid">David Gray Widder on Twitter</a></li>
+ 	<li><a href="https://dl.acm.org/doi/abs/10.1145/3531146.3533779">Limits and Possibilities of “Ethical AI” in Open Source: A Study of Deep Fakes</a></li>
+ 	<li><a href="https://en.wikipedia.org/wiki/Deepfake">What is Deepfake</a></li>
+ 	<li><a href="https://github.com/features/copilot">Copilot</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>.
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></content:encoded>
+	<enclosure url="https://deepdive.opensource.org/podcast-download/1319/building-creative-restrictions-to-curb-ai-abuse.mp3" length="35787200" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Along with all the positive, revolutionary aspects of AI comes a more sinister side. Joining us today to discuss ethics in AI from the developer's point of view is David Gray Widder. David is currently doing his Ph.D. at the School of Computer Science at Carnegie Mellon University and is investigating AI from an ethical perspective, honing in specifically on the ethics-related challenges faced by AI software engineers. His research has been conducted at Intel Labs, Microsoft, and NASA's Jet Propulsion Lab. In this episode, we discuss the harmful uses of deep fakes and the ethical ramifications thereof in proprietary versus open source contexts. Widder breaks down the notions of technological inevitability and technological neutrality, respectively, and explains the importance of challenging these ideas. Widder has identified a continuum between implementation-based harms and use-based harms and fills us in on how each is affected in the open source development space.
+
+Tune in to find out more about the importance of curbing AI abuse and the creativity required to do so, as well as the strengths and weaknesses of open source in terms of AI ethics. Full transcript.
+Key points from this episode:
+
+ 	Introducing David Gray Widder, a Ph.D. student researching AI ethics.
+ 	Why he chose to focus his research on ethics in AI, and how he drives his research.
+ 	Widder explains deep fakes and gives examples of their uses.
+ 	Sinister uses of deep fakes and the danger thereof.
+ 	The ethical ramifications of deep fake tech in proprietary versus open source contexts.
+ 	The kinds of harms that can be prevented in open source versus proprietary contexts.
+ 	The licensing issues that result in developers relinquishing control (and responsibility) over the uses of their tech.
+ 	Why Widder is critical of the notions of both technological inevitability and neutrality.
+ 	Why it’s important to challenge the idea of technological neutrality.
+ 	The potential to build restrictions, even within the dictates of open source.
+ 	The continuum between implementation-based harms and use-based harms.
+ 	How open source allows for increased scrutiny of implementation harms, but decreased accountability for use-based harms.
+ 	The insight Widder gleaned from observing NASA’s use of AI, pertaining to the deep fake case.
+ 	Widder voices his legal concerns around Copilot.
+ 	The difference between laws and norms.
+ 	How we’ve been unsuspectingly providing data by uploading photos online.
+ 	Why it’s important to include open source and public sector organizations in the ethical AI conversation.
+ 	Open source strengths and weaknesses in terms of the ethical use of AI.
+
+Links mentioned in today’s episode:
+
+ 	David Gray Widder
+ 	David Gray Widder on Twitter
+ 	Limits and Possibilities of “Ethical AI” in Open Source: A Study of Deep Fakes
+ 	What is Deepfake
+ 	Copilot
+
+Credits
+Special thanks to volunteer producer, Nicole Martinelli. Music by Jason Shaw, Audionautix.
+
+This podcast is sponsored by GitHub, DataStax and Google.
+
+No sponsor had any right or opportunity to approve or disapprove the content of this podcast.]]></itunes:summary>
+	<itunes:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/09/DDAI-Episode-Cover-Art-1200-×-628-px.png?fit=1200%2C628&#038;ssl=1"></itunes:image>
+	<image>
+		<url>https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/09/DDAI-Episode-Cover-Art-1200-×-628-px.png?fit=1200%2C628&#038;ssl=1</url>
+		<title>Building creative restrictions to curb AI abuse</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Deep Dive: AI]]></itunes:author>	<googleplay:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/09/DDAI-Episode-Cover-Art-1200-×-628-px.png?fit=1200%2C628&#038;ssl=1"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>When hackers take on AI: Sci-fi – or the future?</title>
+	<link>https://deepdive.opensource.org/podcast/when-hackers-take-on-ai-sci-fi-or-the-future/</link>
+	<pubDate>Tue, 30 Aug 2022 13:00:19 +0000</pubDate>
+	<dc:creator><![CDATA[Deep Dive: AI]]></dc:creator>
+	<guid isPermaLink="false">https://deepdive.opensource.org/?post_type=podcast&#038;p=1265</guid>
+	<description><![CDATA[Because we lack a fundamental understanding of the internal mechanisms of current AI models, today’s guest has a few theories about what these models might do when they encounter situations outside of their training data, with potentially catastrophic results. Tuning in, you’ll hear from Connor Leahy, who is one of the founders of Eleuther AI, a grassroots collective of researchers working to open source AI research. He’s also Founder and CEO of Conjecture, a startup that is doing some fascinating research into the interpretability and safety of AI. We talk more about this in today’s episode, with Leahy elaborating on some of the technical problems that he and other researchers are running into and the creativity that will be required to solve them. We also take a look at some of the nefarious ways that he sees AI evolving in the future and how he believes computer security hackers could contribute to mitigating these risks without curbing technological progress. We close on an optimistic note, with Leahy encouraging young career researchers to focus on the ‘massive orchard’ of low-hanging fruit in interpretability and AI safety and sharing his vision for this extremely valuable field of research. 
+
+To learn more, make sure not to miss this fascinating conversation with EleutherAI Founder, Connor Leahy! <a href="https://deepdive.opensource.org/episode-3-transcript/">Full transcript. </a>
+<h2>Key Points From This Episode:</h2>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1">The true story of how EleutherAI started as a hobby project during the pandemic.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why Leahy believes that it’s critical that we understand AI technology.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The importance of making AI more accessible to those who can do valuable research.</li>
+ 	<li style="font-weight: 400;" aria-level="1">What goes into building a large model like this: data, engineering, and computing.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Leahy offers some insight into the truly monumental volume of data required to train these models and where it is sourced from.</li>
+ 	<li style="font-weight: 400;" aria-level="1">A look at Leahy 's (very specific) perspective on making EleutherAI’s models public.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Potential consequences of releasing these models; will they be used for good or evil?</li>
+ 	<li style="font-weight: 400;" aria-level="1">Some of the nefarious ways in which Leahy sees AI technology evolving in the future.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Mitigating the risks that AI poses; how we can prevent these systems from spinning out of control without curbing progress.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Focusing on solvable technical problems to build systems with embedded safeguards.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why Leahy wishes more computer security hackers would work on AI problems.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Low-hanging fruit in interpretability and AI safety for young career researchers.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why Leahy is optimistic about understanding these problems better going forward.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The creativity required to come up with new ways of thinking about these problems.</li>
+ 	<li aria-level="1">In closing, Leahy encourages listeners to take a shot at linear algebra, interpretability, and understanding neural networks.</li>
+</ul>
+<h2>Links Mentioned in Today’s Episode:</h2>
+<ul>
+ 	<li><a href="https://www.linkedin.com/in/connor-j-leahy/">Connor Leahy on LinkedIn</a></li>
+ 	<li><a href="https://twitter.com/npcollapse">Connor Leahy on Twitter</a></li>
+ 	<li><a href="https://github.com/ConnorJL">Connor Leahy on GitHub</a></li>
+ 	<li><a href="https://www.eleuther.ai/">EleutherAI</a></li>
+ 	<li><a href="https://www.conjecture.dev/">Conjecture</a></li>
+ 	<li><a href="https://www.microsoft.com/en-us/research/project/deepspeed/">Microsoft DeepSpeed Library</a></li>
+ 	<li><a href="https://developer.nvidia.com/nemo/megatron">NVIDIA Megatron</a></li>
+ 	<li><a href="https://engineering.fb.com/2021/07/15/open-source/fsdp/">Facebook Fully Sharded Data Parallel (FSDP) Library</a></li>
+ 	<li><a href="https://ai.facebook.com/tools/fairseq/">Fairseq</a></li>
+ 	<li><a href="https://commoncrawl.org/">Common Crawl</a></li>
+ 	<li><a href="https://the-eye.eu/">The Eye</a></li>
+ 	<li><a href="https://arxiv.org/">arXiv</a></li>
+ 	<li><a href="https://baulab.info/">David Bau Lab</a></li>
+ 	<li><a href="https://rome.baulab.info/">‘Locating and Editing Factual Associations in GPT’</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>.
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></description>
+	<itunes:subtitle><![CDATA[Because we lack a fundamental understanding of the internal mechanisms of current AI models, today’s guest has a few theories about what these models might do when they encounter situations outside of their training data, with potentially catastrophic re]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[When hackers take on AI: Sci-fi – or the future?]]></itunes:title>
+	<itunes:episode>3</itunes:episode>
+	<content:encoded><![CDATA[Because we lack a fundamental understanding of the internal mechanisms of current AI models, today’s guest has a few theories about what these models might do when they encounter situations outside of their training data, with potentially catastrophic results. Tuning in, you’ll hear from Connor Leahy, who is one of the founders of Eleuther AI, a grassroots collective of researchers working to open source AI research. He’s also Founder and CEO of Conjecture, a startup that is doing some fascinating research into the interpretability and safety of AI. We talk more about this in today’s episode, with Leahy elaborating on some of the technical problems that he and other researchers are running into and the creativity that will be required to solve them. We also take a look at some of the nefarious ways that he sees AI evolving in the future and how he believes computer security hackers could contribute to mitigating these risks without curbing technological progress. We close on an optimistic note, with Leahy encouraging young career researchers to focus on the ‘massive orchard’ of low-hanging fruit in interpretability and AI safety and sharing his vision for this extremely valuable field of research. 
+
+To learn more, make sure not to miss this fascinating conversation with EleutherAI Founder, Connor Leahy! <a href="https://deepdive.opensource.org/episode-3-transcript/">Full transcript. </a>
+<h2>Key Points From This Episode:</h2>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1">The true story of how EleutherAI started as a hobby project during the pandemic.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why Leahy believes that it’s critical that we understand AI technology.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The importance of making AI more accessible to those who can do valuable research.</li>
+ 	<li style="font-weight: 400;" aria-level="1">What goes into building a large model like this: data, engineering, and computing.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Leahy offers some insight into the truly monumental volume of data required to train these models and where it is sourced from.</li>
+ 	<li style="font-weight: 400;" aria-level="1">A look at Leahy 's (very specific) perspective on making EleutherAI’s models public.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Potential consequences of releasing these models; will they be used for good or evil?</li>
+ 	<li style="font-weight: 400;" aria-level="1">Some of the nefarious ways in which Leahy sees AI technology evolving in the future.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Mitigating the risks that AI poses; how we can prevent these systems from spinning out of control without curbing progress.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Focusing on solvable technical problems to build systems with embedded safeguards.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why Leahy wishes more computer security hackers would work on AI problems.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Low-hanging fruit in interpretability and AI safety for young career researchers.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Why Leahy is optimistic about understanding these problems better going forward.</li>
+ 	<li style="font-weight: 400;" aria-level="1">The creativity required to come up with new ways of thinking about these problems.</li>
+ 	<li aria-level="1">In closing, Leahy encourages listeners to take a shot at linear algebra, interpretability, and understanding neural networks.</li>
+</ul>
+<h2>Links Mentioned in Today’s Episode:</h2>
+<ul>
+ 	<li><a href="https://www.linkedin.com/in/connor-j-leahy/">Connor Leahy on LinkedIn</a></li>
+ 	<li><a href="https://twitter.com/npcollapse">Connor Leahy on Twitter</a></li>
+ 	<li><a href="https://github.com/ConnorJL">Connor Leahy on GitHub</a></li>
+ 	<li><a href="https://www.eleuther.ai/">EleutherAI</a></li>
+ 	<li><a href="https://www.conjecture.dev/">Conjecture</a></li>
+ 	<li><a href="https://www.microsoft.com/en-us/research/project/deepspeed/">Microsoft DeepSpeed Library</a></li>
+ 	<li><a href="https://developer.nvidia.com/nemo/megatron">NVIDIA Megatron</a></li>
+ 	<li><a href="https://engineering.fb.com/2021/07/15/open-source/fsdp/">Facebook Fully Sharded Data Parallel (FSDP) Library</a></li>
+ 	<li><a href="https://ai.facebook.com/tools/fairseq/">Fairseq</a></li>
+ 	<li><a href="https://commoncrawl.org/">Common Crawl</a></li>
+ 	<li><a href="https://the-eye.eu/">The Eye</a></li>
+ 	<li><a href="https://arxiv.org/">arXiv</a></li>
+ 	<li><a href="https://baulab.info/">David Bau Lab</a></li>
+ 	<li><a href="https://rome.baulab.info/">‘Locating and Editing Factual Associations in GPT’</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>.
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></content:encoded>
+	<enclosure url="https://deepdive.opensource.org/podcast-download/1265/when-hackers-take-on-ai-sci-fi-or-the-future.mp3" length="38834303" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Because we lack a fundamental understanding of the internal mechanisms of current AI models, today’s guest has a few theories about what these models might do when they encounter situations outside of their training data, with potentially catastrophic results. Tuning in, you’ll hear from Connor Leahy, who is one of the founders of Eleuther AI, a grassroots collective of researchers working to open source AI research. He’s also Founder and CEO of Conjecture, a startup that is doing some fascinating research into the interpretability and safety of AI. We talk more about this in today’s episode, with Leahy elaborating on some of the technical problems that he and other researchers are running into and the creativity that will be required to solve them. We also take a look at some of the nefarious ways that he sees AI evolving in the future and how he believes computer security hackers could contribute to mitigating these risks without curbing technological progress. We close on an optimistic note, with Leahy encouraging young career researchers to focus on the ‘massive orchard’ of low-hanging fruit in interpretability and AI safety and sharing his vision for this extremely valuable field of research. 
+
+To learn more, make sure not to miss this fascinating conversation with EleutherAI Founder, Connor Leahy! Full transcript. 
+Key Points From This Episode:
+
+ 	The true story of how EleutherAI started as a hobby project during the pandemic.
+ 	Why Leahy believes that it’s critical that we understand AI technology.
+ 	The importance of making AI more accessible to those who can do valuable research.
+ 	What goes into building a large model like this: data, engineering, and computing.
+ 	Leahy offers some insight into the truly monumental volume of data required to train these models and where it is sourced from.
+ 	A look at Leahy 's (very specific) perspective on making EleutherAI’s models public.
+ 	Potential consequences of releasing these models; will they be used for good or evil?
+ 	Some of the nefarious ways in which Leahy sees AI technology evolving in the future.
+ 	Mitigating the risks that AI poses; how we can prevent these systems from spinning out of control without curbing progress.
+ 	Focusing on solvable technical problems to build systems with embedded safeguards.
+ 	Why Leahy wishes more computer security hackers would work on AI problems.
+ 	Low-hanging fruit in interpretability and AI safety for young career researchers.
+ 	Why Leahy is optimistic about understanding these problems better going forward.
+ 	The creativity required to come up with new ways of thinking about these problems.
+ 	In closing, Leahy encourages listeners to take a shot at linear algebra, interpretability, and understanding neural networks.
+
+Links Mentioned in Today’s Episode:
+
+ 	Connor Leahy on LinkedIn
+ 	Connor Leahy on Twitter
+ 	Connor Leahy on GitHub
+ 	EleutherAI
+ 	Conjecture
+ 	Microsoft DeepSpeed Library
+ 	NVIDIA Megatron
+ 	Facebook Fully Sharded Data Parallel (FSDP) Library
+ 	Fairseq
+ 	Common Crawl
+ 	The Eye
+ 	arXiv
+ 	David Bau Lab
+ 	‘Locating and Editing Factual Associations in GPT’
+
+Credits
+Special thanks to volunteer producer, Nicole Martinelli. Music by Jason Shaw, Audionautix.
+
+This podcast is sponsored by GitHub, DataStax and Google.
+
+No sponsor had any right or opportunity to approve or disapprove the content of this podcast.]]></itunes:summary>
+	<itunes:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/08/DDAI-Episode-Cover-Art-1.png?fit=3000%2C3000&#038;ssl=1"></itunes:image>
+	<image>
+		<url>https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/08/DDAI-Episode-Cover-Art-1.png?fit=3000%2C3000&#038;ssl=1</url>
+		<title>When hackers take on AI: Sci-fi – or the future?</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Deep Dive: AI]]></itunes:author>	<googleplay:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/08/DDAI-Episode-Cover-Art-1.png?fit=3000%2C3000&#038;ssl=1"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Solving for AI’s black box problem</title>
+	<link>https://deepdive.opensource.org/podcast/solving-for-ais-black-box-problem/</link>
+	<pubDate>Tue, 23 Aug 2022 13:00:01 +0000</pubDate>
+	<dc:creator><![CDATA[Deep Dive: AI]]></dc:creator>
+	<guid isPermaLink="false">https://deepdive.opensource.org/?post_type=podcast&#038;p=1210</guid>
+	<description><![CDATA[The mystery that surrounds the possibilities and probabilities of AI is multilayered, and depending on your perspective and involvement with new technology, your access to reliable information and a clear picture of current progress could be obscured in several ways. On the podcast today, we welcome Alek Tarkowski, who is the Strategy Director of Open Future Foundation to talk about some of the ways we can tackle issues of security, safety, privacy, and basic human rights. Tarkowski is a sociologist, an activist, and a strategist and his engagement and insight into the current landscape are extremely helpful in understanding these complex issues and murky waters. In our chat, we get to unpack some foundational updates about what is currently going on in the space, regulations that have been deployed recently, and how activists and the industry can find themselves at odds when debating policy. Tarkowski makes a clear plea for all parties to get involved in these debates and stay involved in this powerful avenue for the molding of our future. 
+
+To hear it all from Tarkowski on this central aspect of the future of AI, be sure to join us! <a href="https://deepdive.opensource.org/episode-2-transcript/">Full transcript</a>.
+<h2>Key Points From This Episode:</h2>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1">Real life and artificial intelligence; Tarkowski comments on the effects we are seeing right now. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Current conversations about the regulation of automated decision-making. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Looking at the recent AI Act published by the European Union and its goals. </li>
+ 	<li style="font-weight: 400;" aria-level="1">The three categories for regulation; impact assessment, transparency, and human oversight. </li>
+ 	<li style="font-weight: 400;" aria-level="1">The two strongest forces in the regulation debate: the industry and activists. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Some examples of past regulations that have impacted emergent technologies.   </li>
+ 	<li style="font-weight: 400;" aria-level="1">New tools for the same goals, and the task of keeping the technology in the right hands. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Unpacking the side of regulation that is dealing with data.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Tarkowski talks about the right to data mining and the rules that have been adopted so far.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Comments about the role of the industry; engaging in policy debates. </li>
+ 	<li style="font-weight: 400;" aria-level="1">What a healthy and open AI landscape would look like to Tarkowski ! </li>
+ 	<li style="font-weight: 400;" aria-level="1">The world-building power of policy and the vital importance of debate and the process of their creation.</li>
+</ul>
+<h3>Links mentioned in today’s episode:</h3>
+<ul>
+ 	<li><a href="https://alektarkowski.pl/">Alek Tarkowski</a></li>
+ 	<li><a href="https://twitter.com/atarkowski">Alek Tarkowski on Twitter</a></li>
+ 	<li><a href="https://panopticonfoundation.org/about-2/">Panopticon Foundation</a></li>
+ 	<li><a href="https://algorithmwatch.org/en/">AlgorithmWatch</a></li>
+ 	<li><a href="https://algorithmwatch.org/en/automating-society/">Automating Society study</a></li>
+ 	<li><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206">The AI Act</a></li>
+ 	<li><a href="https://competition-policy.ec.europa.eu/sectors/ict/dma_en">The Digital Markets Act</a></li>
+ 	<li><a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package">The Digital Services Act</a></li>
+ 	<li><a href="https://eur-lex.europa.eu/eli/dir/2019/790/oj">The EU Copyright Directive</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></description>
+	<itunes:subtitle><![CDATA[The mystery that surrounds the possibilities and probabilities of AI is multilayered, and depending on your perspective and involvement with new technology, your access to reliable information and a clear picture of current progress could be obscured in ]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Solving for AI’s Black Box Problem]]></itunes:title>
+	<itunes:episode>2</itunes:episode>
+	<content:encoded><![CDATA[The mystery that surrounds the possibilities and probabilities of AI is multilayered, and depending on your perspective and involvement with new technology, your access to reliable information and a clear picture of current progress could be obscured in several ways. On the podcast today, we welcome Alek Tarkowski, who is the Strategy Director of Open Future Foundation to talk about some of the ways we can tackle issues of security, safety, privacy, and basic human rights. Tarkowski is a sociologist, an activist, and a strategist and his engagement and insight into the current landscape are extremely helpful in understanding these complex issues and murky waters. In our chat, we get to unpack some foundational updates about what is currently going on in the space, regulations that have been deployed recently, and how activists and the industry can find themselves at odds when debating policy. Tarkowski makes a clear plea for all parties to get involved in these debates and stay involved in this powerful avenue for the molding of our future. 
+
+To hear it all from Tarkowski on this central aspect of the future of AI, be sure to join us! <a href="https://deepdive.opensource.org/episode-2-transcript/">Full transcript</a>.
+<h2>Key Points From This Episode:</h2>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1">Real life and artificial intelligence; Tarkowski comments on the effects we are seeing right now. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Current conversations about the regulation of automated decision-making. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Looking at the recent AI Act published by the European Union and its goals. </li>
+ 	<li style="font-weight: 400;" aria-level="1">The three categories for regulation; impact assessment, transparency, and human oversight. </li>
+ 	<li style="font-weight: 400;" aria-level="1">The two strongest forces in the regulation debate: the industry and activists. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Some examples of past regulations that have impacted emergent technologies.   </li>
+ 	<li style="font-weight: 400;" aria-level="1">New tools for the same goals, and the task of keeping the technology in the right hands. </li>
+ 	<li style="font-weight: 400;" aria-level="1">Unpacking the side of regulation that is dealing with data.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Tarkowski talks about the right to data mining and the rules that have been adopted so far.</li>
+ 	<li style="font-weight: 400;" aria-level="1">Comments about the role of the industry; engaging in policy debates. </li>
+ 	<li style="font-weight: 400;" aria-level="1">What a healthy and open AI landscape would look like to Tarkowski ! </li>
+ 	<li style="font-weight: 400;" aria-level="1">The world-building power of policy and the vital importance of debate and the process of their creation.</li>
+</ul>
+<h3>Links mentioned in today’s episode:</h3>
+<ul>
+ 	<li><a href="https://alektarkowski.pl/">Alek Tarkowski</a></li>
+ 	<li><a href="https://twitter.com/atarkowski">Alek Tarkowski on Twitter</a></li>
+ 	<li><a href="https://panopticonfoundation.org/about-2/">Panopticon Foundation</a></li>
+ 	<li><a href="https://algorithmwatch.org/en/">AlgorithmWatch</a></li>
+ 	<li><a href="https://algorithmwatch.org/en/automating-society/">Automating Society study</a></li>
+ 	<li><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206">The AI Act</a></li>
+ 	<li><a href="https://competition-policy.ec.europa.eu/sectors/ict/dma_en">The Digital Markets Act</a></li>
+ 	<li><a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package">The Digital Services Act</a></li>
+ 	<li><a href="https://eur-lex.europa.eu/eli/dir/2019/790/oj">The EU Copyright Directive</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to volunteer producer, <a href="https://nicolemartinelli.com/">Nicole Martinelli</a>. Music by Jason Shaw, <a href="https://audionautix.com/">Audionautix</a>
+
+This podcast is sponsored by <a href="https://github.com/">GitHub</a>, <a href="https://datastax.com/">DataStax</a> and <a href="https://opensource.google/">Google</a>.
+
+<em>No sponsor had any right or opportunity to approve or disapprove the content of this podcast.</em>]]></content:encoded>
+	<enclosure url="https://deepdive.opensource.org/podcast-download/1210/solving-for-ais-black-box-problem.mp3" length="37088842" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[The mystery that surrounds the possibilities and probabilities of AI is multilayered, and depending on your perspective and involvement with new technology, your access to reliable information and a clear picture of current progress could be obscured in several ways. On the podcast today, we welcome Alek Tarkowski, who is the Strategy Director of Open Future Foundation to talk about some of the ways we can tackle issues of security, safety, privacy, and basic human rights. Tarkowski is a sociologist, an activist, and a strategist and his engagement and insight into the current landscape are extremely helpful in understanding these complex issues and murky waters. In our chat, we get to unpack some foundational updates about what is currently going on in the space, regulations that have been deployed recently, and how activists and the industry can find themselves at odds when debating policy. Tarkowski makes a clear plea for all parties to get involved in these debates and stay involved in this powerful avenue for the molding of our future. 
+
+To hear it all from Tarkowski on this central aspect of the future of AI, be sure to join us! Full transcript.
+Key Points From This Episode:
+
+ 	Real life and artificial intelligence; Tarkowski comments on the effects we are seeing right now. 
+ 	Current conversations about the regulation of automated decision-making. 
+ 	Looking at the recent AI Act published by the European Union and its goals. 
+ 	The three categories for regulation; impact assessment, transparency, and human oversight. 
+ 	The two strongest forces in the regulation debate: the industry and activists. 
+ 	Some examples of past regulations that have impacted emergent technologies.   
+ 	New tools for the same goals, and the task of keeping the technology in the right hands. 
+ 	Unpacking the side of regulation that is dealing with data.
+ 	Tarkowski talks about the right to data mining and the rules that have been adopted so far.
+ 	Comments about the role of the industry; engaging in policy debates. 
+ 	What a healthy and open AI landscape would look like to Tarkowski ! 
+ 	The world-building power of policy and the vital importance of debate and the process of their creation.
+
+Links mentioned in today’s episode:
+
+ 	Alek Tarkowski
+ 	Alek Tarkowski on Twitter
+ 	Panopticon Foundation
+ 	AlgorithmWatch
+ 	Automating Society study
+ 	The AI Act
+ 	The Digital Markets Act
+ 	The Digital Services Act
+ 	The EU Copyright Directive
+
+Credits
+Special thanks to volunteer producer, Nicole Martinelli. Music by Jason Shaw, Audionautix
+
+This podcast is sponsored by GitHub, DataStax and Google.
+
+No sponsor had any right or opportunity to approve or disapprove the content of this podcast.]]></itunes:summary>
+	<itunes:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/08/DDAI-Episode-Cover-Art.png?fit=3000%2C3000&#038;ssl=1"></itunes:image>
+	<image>
+		<url>https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/08/DDAI-Episode-Cover-Art.png?fit=3000%2C3000&#038;ssl=1</url>
+		<title>Solving for AI’s black box problem</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Deep Dive: AI]]></itunes:author>	<googleplay:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/08/DDAI-Episode-Cover-Art.png?fit=3000%2C3000&#038;ssl=1"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Copyright, selfie monkeys, the hand of God</title>
+	<link>https://deepdive.opensource.org/podcast/copyright-selfie-monkeys-the-hand-of-god/</link>
+	<pubDate>Tue, 16 Aug 2022 13:00:16 +0000</pubDate>
+	<dc:creator><![CDATA[Deep Dive: AI]]></dc:creator>
+	<guid isPermaLink="false">https://deepdive.opensource.org/?post_type=podcast&#038;p=491</guid>
+	<description><![CDATA[What are the copyright implications for AI? Can artwork created by a machine register for copyright? These are some of the questions we answer in this episode of Deep Dive: AI, an Open Source Initiative that explores how Artificial Intelligence impacts the world around us. Here to help us unravel the complexities of today’s topic is Pamela Chestek, an Open Source lawyer, Chair of the OSI License Committee, and OSI Board member.
+
+She is an accomplished business attorney with vast experience in free and open source software, trademark law, and copyright law, as well as in advertising, marketing, licensing, and commercial contracting. Pamela is also the author of various scholarly articles and writes a blog focused on analyzing existing intellectual property case law. She is a respected authority on the subject and has given talks concerning Open Source software, copyright, and trademark matters.
+
+In today’s conversation, we learn the basics of copyright law and delve into its complexities regarding open source material. We also talk about the line between human and machine creations, whether machine learning software can be registered for copyright, how companies monetize Open Source software, the concern of copyright infringement for machine learning datasets, and why understanding copyright is essential for businesses. We also learn about some amazing AI technology that is causing a stir in the design world and hear some real-world examples of copyright law in the technology space.
+
+Tune in today to get insider knowledge with expert Pamela Chestek! <a href="https://deepdive.opensource.org/episode-1-transcript/">Full transcript.</a>
+<h2>Key Points From This Episode:</h2>
+<ul>
+ 	<li aria-level="1">Introduction and a brief background about today’s guest, Pamela Chestek.</li>
+ 	<li aria-level="1">Complexities regarding copyright for materials created by machines.</li>
+ 	<li aria-level="1">Interesting examples of copyright rejection for non-human created materials.</li>
+ 	<li aria-level="1">An outline of the standards required to register material for copyright.</li>
+ 	<li aria-level="1">Hear a statement still used as a standard today made by the US copyright office in 1966.</li>
+ 	<li aria-level="1">The fine line between what a human being is doing versus what the machine is doing.</li>
+ 	<li aria-level="1">Learn about some remarkable technology creating beautiful artwork.</li>
+ 	<li aria-level="1">She explains the complexities of copyright for art created by software or machines.</li>
+ 	<li aria-level="1">We find out if machine learning software like SpamAssassin can register for copyright.</li>
+ 	<li aria-level="1">Reasons why working hard, time, and resources do not meet copyright requirements.</li>
+ 	<li aria-level="1">A discussion around the complexities of copyright concerning Open Source software.</li>
+ 	<li aria-level="1">Pamela untangles the nuance of copyright when using datasets for machine learning.</li>
+ 	<li aria-level="1">Common issues that her clients experience who are using machine learning.</li>
+ 	<li aria-level="1">Whether AI will be a force to drive positive or negative change in the future.</li>
+ 	<li aria-level="1">A rundown of some real-world applications of AI.</li>
+ 	<li aria-level="1">Why understanding copyright law is essential to a company’s business model.</li>
+ 	<li aria-level="1">How companies make money by creating Open Source software.</li>
+ 	<li aria-level="1">The move by big social media companies to make their algorithm Open Source.</li>
+ 	<li aria-level="1">A final takeaway message that Pamela has for listeners.</li>
+</ul>
+<h3>Links Mentioned in Today’s Episode:</h3>
+<ul>
+ 	<li><a href="https://www.linkedin.com/in/pchestek/">Pamela Chestek on LinkedIn</a></li>
+ 	<li><a href="http://www.apple.com/uk">Pamela Chestek on Twitter</a></li>
+ 	<li><a href="https://chesteklegal.com/contact">Chestek Legal</a></li>
+ 	<li><a href="https://propertyintangible.com">Pamela Chestek: Property intangible Blog</a></li>
+ 	<li><a href="https://www.debian.org/">Debian</a></li>
+ 	<li><a href="https://openai.com/blog/dall-e/">DALL·E</a></li>
+ 	<li><a href="https://news.ycombinator.com/">Hacker News</a></li>
+ 	<li><a href="https://spamassassin.apache.org/">SpamAssassin</a></li>
+ 	<li><a href="https://european-pirateparty.eu">European Pirate Party</a></li>
+ 	<li><a href="https://opensource.org/osd">Open Source Definition Link</a></li>
+ 	<li><a href="https://www.fsf.org/">Free Software Foundation</a></li>
+ 	<li><a href="https://www.redhat.com/en/our-code-is-open?sc_cid=7013a000002w5efAAA&amp;gclid=Cj0KCQjwuaiXBhCCARIsAKZLt3ldxFX8_yKZuxPia7m382el1fdvz1OqL4iYLSUgtk6M9-YoQpF1kbMaAj_bEALw_wcB&amp;gclsrc=aw.ds">Red Hat</a></li>
+ 	<li>Jason Shaw, <a href="https://audionautix.com/">Audionautix</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to the volunteer producer, <a href="https://nicolemartinelli.com">Nicole Martinelli</a>.]]></description>
+	<itunes:subtitle><![CDATA[What are the copyright implications for AI? Can artwork created by a machine register for copyright? These are some of the questions we answer in this episode of Deep Dive: AI, an Open Source Initiative that explores how Artificial Intelligence impacts t]]></itunes:subtitle>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:title><![CDATA[Copyright, selfie monkeys, the hand of God]]></itunes:title>
+	<itunes:episode>1</itunes:episode>
+	<content:encoded><![CDATA[What are the copyright implications for AI? Can artwork created by a machine register for copyright? These are some of the questions we answer in this episode of Deep Dive: AI, an Open Source Initiative that explores how Artificial Intelligence impacts the world around us. Here to help us unravel the complexities of today’s topic is Pamela Chestek, an Open Source lawyer, Chair of the OSI License Committee, and OSI Board member.
+
+She is an accomplished business attorney with vast experience in free and open source software, trademark law, and copyright law, as well as in advertising, marketing, licensing, and commercial contracting. Pamela is also the author of various scholarly articles and writes a blog focused on analyzing existing intellectual property case law. She is a respected authority on the subject and has given talks concerning Open Source software, copyright, and trademark matters.
+
+In today’s conversation, we learn the basics of copyright law and delve into its complexities regarding open source material. We also talk about the line between human and machine creations, whether machine learning software can be registered for copyright, how companies monetize Open Source software, the concern of copyright infringement for machine learning datasets, and why understanding copyright is essential for businesses. We also learn about some amazing AI technology that is causing a stir in the design world and hear some real-world examples of copyright law in the technology space.
+
+Tune in today to get insider knowledge with expert Pamela Chestek! <a href="https://deepdive.opensource.org/episode-1-transcript/">Full transcript.</a>
+<h2>Key Points From This Episode:</h2>
+<ul>
+ 	<li aria-level="1">Introduction and a brief background about today’s guest, Pamela Chestek.</li>
+ 	<li aria-level="1">Complexities regarding copyright for materials created by machines.</li>
+ 	<li aria-level="1">Interesting examples of copyright rejection for non-human created materials.</li>
+ 	<li aria-level="1">An outline of the standards required to register material for copyright.</li>
+ 	<li aria-level="1">Hear a statement still used as a standard today made by the US copyright office in 1966.</li>
+ 	<li aria-level="1">The fine line between what a human being is doing versus what the machine is doing.</li>
+ 	<li aria-level="1">Learn about some remarkable technology creating beautiful artwork.</li>
+ 	<li aria-level="1">She explains the complexities of copyright for art created by software or machines.</li>
+ 	<li aria-level="1">We find out if machine learning software like SpamAssassin can register for copyright.</li>
+ 	<li aria-level="1">Reasons why working hard, time, and resources do not meet copyright requirements.</li>
+ 	<li aria-level="1">A discussion around the complexities of copyright concerning Open Source software.</li>
+ 	<li aria-level="1">Pamela untangles the nuance of copyright when using datasets for machine learning.</li>
+ 	<li aria-level="1">Common issues that her clients experience who are using machine learning.</li>
+ 	<li aria-level="1">Whether AI will be a force to drive positive or negative change in the future.</li>
+ 	<li aria-level="1">A rundown of some real-world applications of AI.</li>
+ 	<li aria-level="1">Why understanding copyright law is essential to a company’s business model.</li>
+ 	<li aria-level="1">How companies make money by creating Open Source software.</li>
+ 	<li aria-level="1">The move by big social media companies to make their algorithm Open Source.</li>
+ 	<li aria-level="1">A final takeaway message that Pamela has for listeners.</li>
+</ul>
+<h3>Links Mentioned in Today’s Episode:</h3>
+<ul>
+ 	<li><a href="https://www.linkedin.com/in/pchestek/">Pamela Chestek on LinkedIn</a></li>
+ 	<li><a href="http://www.apple.com/uk">Pamela Chestek on Twitter</a></li>
+ 	<li><a href="https://chesteklegal.com/contact">Chestek Legal</a></li>
+ 	<li><a href="https://propertyintangible.com">Pamela Chestek: Property intangible Blog</a></li>
+ 	<li><a href="https://www.debian.org/">Debian</a></li>
+ 	<li><a href="https://openai.com/blog/dall-e/">DALL·E</a></li>
+ 	<li><a href="https://news.ycombinator.com/">Hacker News</a></li>
+ 	<li><a href="https://spamassassin.apache.org/">SpamAssassin</a></li>
+ 	<li><a href="https://european-pirateparty.eu">European Pirate Party</a></li>
+ 	<li><a href="https://opensource.org/osd">Open Source Definition Link</a></li>
+ 	<li><a href="https://www.fsf.org/">Free Software Foundation</a></li>
+ 	<li><a href="https://www.redhat.com/en/our-code-is-open?sc_cid=7013a000002w5efAAA&amp;gclid=Cj0KCQjwuaiXBhCCARIsAKZLt3ldxFX8_yKZuxPia7m382el1fdvz1OqL4iYLSUgtk6M9-YoQpF1kbMaAj_bEALw_wcB&amp;gclsrc=aw.ds">Red Hat</a></li>
+ 	<li>Jason Shaw, <a href="https://audionautix.com/">Audionautix</a></li>
+</ul>
+<h2>Credits</h2>
+Special thanks to the volunteer producer, <a href="https://nicolemartinelli.com">Nicole Martinelli</a>.]]></content:encoded>
+	<enclosure url="https://deepdive.opensource.org/podcast-download/491/copyright-selfie-monkeys-the-hand-of-god.mp3" length="36708964" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[What are the copyright implications for AI? Can artwork created by a machine register for copyright? These are some of the questions we answer in this episode of Deep Dive: AI, an Open Source Initiative that explores how Artificial Intelligence impacts the world around us. Here to help us unravel the complexities of today’s topic is Pamela Chestek, an Open Source lawyer, Chair of the OSI License Committee, and OSI Board member.
+
+She is an accomplished business attorney with vast experience in free and open source software, trademark law, and copyright law, as well as in advertising, marketing, licensing, and commercial contracting. Pamela is also the author of various scholarly articles and writes a blog focused on analyzing existing intellectual property case law. She is a respected authority on the subject and has given talks concerning Open Source software, copyright, and trademark matters.
+
+In today’s conversation, we learn the basics of copyright law and delve into its complexities regarding open source material. We also talk about the line between human and machine creations, whether machine learning software can be registered for copyright, how companies monetize Open Source software, the concern of copyright infringement for machine learning datasets, and why understanding copyright is essential for businesses. We also learn about some amazing AI technology that is causing a stir in the design world and hear some real-world examples of copyright law in the technology space.
+
+Tune in today to get insider knowledge with expert Pamela Chestek! Full transcript.
+Key Points From This Episode:
+
+ 	Introduction and a brief background about today’s guest, Pamela Chestek.
+ 	Complexities regarding copyright for materials created by machines.
+ 	Interesting examples of copyright rejection for non-human created materials.
+ 	An outline of the standards required to register material for copyright.
+ 	Hear a statement still used as a standard today made by the US copyright office in 1966.
+ 	The fine line between what a human being is doing versus what the machine is doing.
+ 	Learn about some remarkable technology creating beautiful artwork.
+ 	She explains the complexities of copyright for art created by software or machines.
+ 	We find out if machine learning software like SpamAssassin can register for copyright.
+ 	Reasons why working hard, time, and resources do not meet copyright requirements.
+ 	A discussion around the complexities of copyright concerning Open Source software.
+ 	Pamela untangles the nuance of copyright when using datasets for machine learning.
+ 	Common issues that her clients experience who are using machine learning.
+ 	Whether AI will be a force to drive positive or negative change in the future.
+ 	A rundown of some real-world applications of AI.
+ 	Why understanding copyright law is essential to a company’s business model.
+ 	How companies make money by creating Open Source software.
+ 	The move by big social media companies to make their algorithm Open Source.
+ 	A final takeaway message that Pamela has for listeners.
+
+Links Mentioned in Today’s Episode:
+
+ 	Pamela Chestek on LinkedIn
+ 	Pamela Chestek on Twitter
+ 	Chestek Legal
+ 	Pamela Chestek: Property intangible Blog
+ 	Debian
+ 	DALL·E
+ 	Hacker News
+ 	SpamAssassin
+ 	European Pirate Party
+ 	Open Source Definition Link
+ 	Free Software Foundation
+ 	Red Hat
+ 	Jason Shaw, Audionautix
+
+Credits
+Special thanks to the volunteer producer, Nicole Martinelli.]]></itunes:summary>
+	<itunes:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/07/DDAI_Episode1_Cover_Art.png?fit=1500%2C1500&#038;ssl=1"></itunes:image>
+	<image>
+		<url>https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/07/DDAI_Episode1_Cover_Art.png?fit=1500%2C1500&#038;ssl=1</url>
+		<title>Copyright, selfie monkeys, the hand of God</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Deep Dive: AI]]></itunes:author>	<googleplay:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/07/DDAI_Episode1_Cover_Art.png?fit=1500%2C1500&#038;ssl=1"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Welcome to Deep Dive: AI</title>
+	<link>https://deepdive.opensource.org/podcast/welcome-to-deep-dive-ai/</link>
+	<pubDate>Tue, 26 Jul 2022 23:28:34 +0000</pubDate>
+	<dc:creator><![CDATA[Deep Dive: AI]]></dc:creator>
+	<guid isPermaLink="false">https://deepdive.opensource.org/?post_type=podcast&#038;p=779</guid>
+	<description><![CDATA[Welcome to Deep Dive:AI, an online event from the Open Source Initiative. We’ll be exploring how Artificial Intelligence impacts open source software, from developers to businesses to the rest of us.
+<h2>Episode notes</h2>
+An introduction to Deep Dive: AI, an event in three parts organized by the Open Source Initiative. With AI systems being so complex, concepts like “program” or “source code” in the Open Source Definition are challenged in new and surprising ways. The topic of AI is huge. For Open Source Initiative’s Deep Dive, we’ll be looking at how AI could affect  the future of Open Source.
+
+This trailer episode is produced by the Open Source Initiative with the help of <a href="https://nicolemartinelli.com">Nicole Martinelli</a>.
+
+Music by <a href="https://audionautix.com/">Jason Shaw on Audionautix.com, Creative Commons BY 4.0 International license</a>.
+
+Deep Dive: AI is made possible by the generous support of OSI individual members and sponsors. Donate or <a href="http://opensource.org/join">become a member of the OSI today</a>.]]></description>
+	<itunes:subtitle><![CDATA[Welcome to Deep Dive:AI, an online event from the Open Source Initiative. We’ll be exploring how Artificial Intelligence impacts open source software, from developers to businesses to the rest of us.
+Episode notes
+An introduction to Deep Dive: AI, an e]]></itunes:subtitle>
+	<itunes:episodeType>trailer</itunes:episodeType>
+	<itunes:title><![CDATA[Welcome to Deep Dive: AI]]></itunes:title>
+	<content:encoded><![CDATA[Welcome to Deep Dive:AI, an online event from the Open Source Initiative. We’ll be exploring how Artificial Intelligence impacts open source software, from developers to businesses to the rest of us.
+<h2>Episode notes</h2>
+An introduction to Deep Dive: AI, an event in three parts organized by the Open Source Initiative. With AI systems being so complex, concepts like “program” or “source code” in the Open Source Definition are challenged in new and surprising ways. The topic of AI is huge. For Open Source Initiative’s Deep Dive, we’ll be looking at how AI could affect  the future of Open Source.
+
+This trailer episode is produced by the Open Source Initiative with the help of <a href="https://nicolemartinelli.com">Nicole Martinelli</a>.
+
+Music by <a href="https://audionautix.com/">Jason Shaw on Audionautix.com, Creative Commons BY 4.0 International license</a>.
+
+Deep Dive: AI is made possible by the generous support of OSI individual members and sponsors. Donate or <a href="http://opensource.org/join">become a member of the OSI today</a>.]]></content:encoded>
+	<enclosure url="https://deepdive.opensource.org/podcast-download/779/welcome-to-deep-dive-ai.mp3" length="2441806" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Welcome to Deep Dive:AI, an online event from the Open Source Initiative. We’ll be exploring how Artificial Intelligence impacts open source software, from developers to businesses to the rest of us.
+Episode notes
+An introduction to Deep Dive: AI, an event in three parts organized by the Open Source Initiative. With AI systems being so complex, concepts like “program” or “source code” in the Open Source Definition are challenged in new and surprising ways. The topic of AI is huge. For Open Source Initiative’s Deep Dive, we’ll be looking at how AI could affect  the future of Open Source.
+
+This trailer episode is produced by the Open Source Initiative with the help of Nicole Martinelli.
+
+Music by Jason Shaw on Audionautix.com, Creative Commons BY 4.0 International license.
+
+Deep Dive: AI is made possible by the generous support of OSI individual members and sponsors. Donate or become a member of the OSI today.]]></itunes:summary>
+	<itunes:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/07/DEEP-DIVE-e1658878069142.png?fit=1600%2C900&#038;ssl=1"></itunes:image>
+	<image>
+		<url>https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/07/DEEP-DIVE-e1658878069142.png?fit=1600%2C900&#038;ssl=1</url>
+		<title>Welcome to Deep Dive: AI</title>
+	</image>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Deep Dive: AI]]></itunes:author>	<googleplay:image href="https://i0.wp.com/deepdive.opensource.org/wp-content/uploads/2022/07/DEEP-DIVE-e1658878069142.png?fit=1600%2C900&#038;ssl=1"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+	</channel>
+</rss>
